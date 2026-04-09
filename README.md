@@ -1,10 +1,10 @@
 # Web Development Project 5 - *Cat Data Dashboard*
 
-Submitted by: **RItik Parmar**
+Submitted by: **Ritik Parmar**
             
-\This web app: **THe website is for you to see the different breeds of cat and how cats have so many personalities. **
+This web app: **THe website is for you to see the different breeds of cat and how cats have so many personalities. **
 
-Time spent: **10** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -40,10 +40,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Ritikp1119/Project5/blob/main/WEB102CodePathCat.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -52,10 +52,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+I had diffuiclites with choosing the correct Api to use and for it to match with my codes. I also had hard time with the filter  not being able to show the the regular size option. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Ritik Parmar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
